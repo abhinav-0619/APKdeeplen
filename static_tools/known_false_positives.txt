@@ -68,3 +68,4 @@ https?://amazon\.com/.*
 # Exclude Common Third-Party SDKs
 (?:https?://)?microsoft\.github\.io/code-push$
 (?:https?://)?reactjs\.org/docs/error-decoder\.html\?invariant=$
+#
