@@ -9,7 +9,7 @@ from xhtml2pdf import pisa
 
 logging.basicConfig(level=logging.DEBUG, format="%(message)s")
 
-"""
+"""#
     Title:      APKDeepLens
     Desc:       Android security insights in full spectrum.
     Author:     Deepanshu Gajbhiye
