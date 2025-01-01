@@ -9,7 +9,7 @@ import xml.etree.ElementTree as ET
 from static_tools import sensitive_info_extractor, scan_android_manifest
 from report_gen import ReportGen, util
 
-"""
+"""#
     Title:      APKDeepLens
     Desc:       Android security insights in full spectrum.
     Author:     Deepanshu Gajbhiye
